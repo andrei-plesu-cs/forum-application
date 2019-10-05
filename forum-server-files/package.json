@@ -1,0 +1,17 @@
+{
+  "name": "forum-servers",
+  "version": "1.0.0",
+  "description": "The server for the Forum App made with React and Postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plesoianu Andrei-Bogdan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dot-env": "0.0.1",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
