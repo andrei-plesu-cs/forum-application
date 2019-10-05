@@ -1,0 +1,48 @@
+
+/* Navbar genreal style */
+.navbar {
+    background-color: #f7f9fb;
+    padding: .8rem;
+    height: 70px !important;
+}
+
+/* Navbar brand */
+.navbar-brand {
+    color: #1f2605;
+}
+
+#navbar-brand-image {
+    height: 20px;
+    width: 20px;
+}
+
+/* Navbar links */
+#logout-button {
+    margin-right: 30px;
+}
+
+#logout-button a {
+    color: #1f2605;
+    border: 1px solid #1f2605;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    transition: .5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#logout-button a:hover {
+    color: #f7f9fb;
+    background-color: #1f2605;
+}
+
+#profile-button {
+
+}
+
+#profile-button a {
+    color: #1f2605;
+}
+
+#profile-button a:hover {
+    color: gray;
+}

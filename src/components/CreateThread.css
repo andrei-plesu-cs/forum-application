@@ -1,0 +1,16 @@
+
+.create-thread-container {
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-thread-inner-div {
+    border: 1px solid black;
+    width: 70%;
+    padding: 2rem;
+}
